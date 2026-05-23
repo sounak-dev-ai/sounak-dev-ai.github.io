@@ -1,4 +1,4 @@
-# Sounak Dey — AI & Computational Biology Engineer
+# Sounak AI-based Software Developer
 
 > **Freelance portfolio** · [Live Site →](https://YOUR_USERNAME.github.io) <!-- ← EDIT: replace with your real URL -->
 
